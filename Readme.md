@@ -46,7 +46,7 @@ sourcetype=dhcplogs
 | stats count
 ```
 
-datauploaded1.png
+
 
 Purpose:
 Establish baseline event volume within the dataset.
